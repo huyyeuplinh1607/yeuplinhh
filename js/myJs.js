@@ -119,7 +119,7 @@ $(document).ready(function () {
       backdrop: `
                     rgba(0,0,123,0.4)
                     url("img/cute.gif")
-                    left top
+                    mid top
                     no-repeat
                   `,
       showCancelButton: false,
